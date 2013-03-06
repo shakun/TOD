@@ -1,0 +1,12 @@
+#menubar #MenuBar1 li .MenuBarItemSubmenu {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #AD8B9F;
+}
+#menubar #MenuBar1 li a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #AD8B9F;
+	text-transform: uppercase;
+	font-weight: bold;
+}
