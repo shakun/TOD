@@ -51,7 +51,7 @@ ul
 	width: 8em;
 	position: absolute;
 	left: -1000em;
-	background-image: url(../images/maroon.png);
+	background-image: url(../images/dot.png);
 	background-repeat: repeat;
 }
 /* Submenu that is showing with class designation MenuBarSubmenuVisible, we set left to auto so it comes onto the screen below its parent menu item */
@@ -113,7 +113,7 @@ a
 a.MenuBarSubmenuVisible
 {
 	background-repeat: repeat;
-	background-image: url(../images/maroon.png);
+	background-image: url(../images/dot.png);
 }
 /*******************************************************************************
 
@@ -141,7 +141,7 @@ a.MenuBarSubmenuVisible
 	background-image: url(SpryMenuBarDownHover.gif);
 	background-repeat: no-repeat;
 	background-position: 95% 50%;
-	background-color: #600E32;
+	background-color: #000;
 }
 /* Menu items that are open with submenus have the class designation MenuBarItemSubmenuHover and are set to use a "hover" background image positioned on the far left (95%) and centered vertically (50%) */
 #menubar ul.MenuBarHorizontal ul a.MenuBarItemSubmenuHover
