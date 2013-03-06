@@ -31,11 +31,10 @@ body {
 	background-image: url(images/mid.png);
 	background-repeat: repeat-x;
 	height: 36px;
-	width: 776px;
+	width: 950px;
 	float: left;
 	margin-top: 12px;
 	margin-bottom: 12px;
-	padding-left: 10px;
 }
 #right {
 	background-image: url(images/rt_cr.png);
@@ -52,9 +51,11 @@ body {
 }
 #home {
 	float: left;
-	height: 60px;
-	width: 60px;
-	margin-right: 12px;
+	height: 36px;
+	width: 100px;
+	background-image: url(images/home_btn.png);
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 #search {
 	float: left;
@@ -82,8 +83,16 @@ body {
 	background-position: 2px center;
 }
 #top {
-	background-color: #B4C2CF;
+	background-color: #FFF;
 	height: 400px;
+}
+.homeimg {
+	text-align: center;
+}
+#home a:link ,{
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
 }
 #menubar {
 	padding-top: 6px;
@@ -99,10 +108,12 @@ body {
 
 <body>
 <div id="top">
-  <div id="menu"><div id="home"><img src="images/home_btn.png" width="60" height="60" /></div><div id="left"></div>
+  <div id="menu">
+  <div id="left"></div>
     <div id="mid">
-      
+      <div id="home"><a href="#"><img src="images/home_link.png" width="65" height="36" /></a></div>
       <div id="menubar">
+      
         <ul id="MenuBar1" class="MenuBarHorizontal">
           <li><a class="MenuBarItemSubmenu" href="#">Services</a>
             <ul>
@@ -154,14 +165,14 @@ body {
         </li>
       <li><a href="#" class="MenuBarItemSubmenu">Antivirus </a>
         <ul>
-          <li><a href="#">Avast</a></li>
-          <li><a href="#">AVG</a></li>
-          <li><a href="#">Avira</a></li>
-          <li><a href="#">CA</a></li>
-          <li><a href="#">KasperSky</a></li>
-          <li><a href="#">McAfee</a></li>
-          <li><a href="#">Nortan</a></li>
-          <li><a href="#">Panda</a></li>
+          <li><a href="#">Avast &reg;</a></li>
+          <li><a href="#">AVG &reg;</a></li>
+          <li><a href="#">Avira &reg;</a></li>
+          <li><a href="#">CA &reg;</a></li>
+          <li><a href="#">KasperSky &reg;</a></li>
+          <li><a href="#">McAfee &reg;</a></li>
+          <li><a href="#">Norton &reg;</a></li>
+          <li><a href="#">Panda &reg;</a></li>
           </ul>
         </li>
       <li><a href="#" class="MenuBarItemSubmenu">Printer </a>
@@ -176,17 +187,17 @@ body {
         </li>
       <li><a href="#" class="MenuBarItemSubmenu">Browser</a>
         <ul>
-          <li><a href="#">IE</a></li>
-          <li><a href="#">Google Chrome</a></li>
-          <li><a href="#">Opera</a></li>
-          <li><a href="#">Mozilla Firefox</a></li>
+          <li><a href="#">IE &reg;</a></li>
+          <li><a href="#">Google Chrome &reg;</a></li>
+          <li><a href="#">Opera &reg;</a></li>
+          <li><a href="#">Mozilla Firefox &reg;</a></li>
           </ul>
         </li>
       <li><a href="#" class="MenuBarItemSubmenu">Email</a>
         <ul>
-          <li><a href="#">AOL</a></li>
-          <li><a href="#">Outlook</a></li>
-          <li><a href="#">Thunderbird</a></li>
+          <li><a href="#">AOL &reg;</a></li>
+          <li><a href="#">Outlook &reg;</a></li>
+          <li><a href="#">Thunderbird &reg;</a></li>
           </ul>
         </li>
       </ul>
