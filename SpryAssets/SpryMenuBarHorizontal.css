@@ -58,12 +58,14 @@ ul
 #menubar ul.MenuBarHorizontal ul.MenuBarSubmenuVisible
 {
 	left: auto;
+	width: 9em;
 }
 /* Menu item containers are same fixed width as parent */
 #menubar ul.MenuBarHorizontal ul
 li
 {
-	width: 8em;
+	width: 9em;
+	white-space: nowrap;
 }
 /* Submenus should appear slightly overlapping to the right (95%) and up (-5%) */
 #menubar ul.MenuBarHorizontal ul
