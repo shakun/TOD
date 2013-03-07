@@ -35,7 +35,7 @@ li
 	position: relative;
 	text-align: left;
 	cursor: pointer;
-	width: 8em;
+	width: 7em;
 	float: left;
 }
 /* Submenus should appear below their parent (top: 0) with a higher z-index, but they are initially off the left side of the screen (-1000em) */
@@ -105,7 +105,6 @@ a
 /* Menu items that have mouse over or focus have a blue background and white text */
 #menubar ul.MenuBarHorizontal a:hover ,#menubar ul.MenuBarHorizontal a:focus
 {
-	background-image: url(../images/dot.png);
 	background-repeat: repeat;
 }
 /* Menu items that are open with submenus are set to MenuBarItemHover with a blue background and white text */
@@ -113,7 +112,7 @@ a
 a.MenuBarSubmenuVisible
 {
 	background-repeat: repeat;
-	background-image: url(../images/dot.png);
+	background-color: #000;
 }
 /*******************************************************************************
 
@@ -141,7 +140,6 @@ a.MenuBarSubmenuVisible
 	background-image: url(SpryMenuBarDownHover.gif);
 	background-repeat: no-repeat;
 	background-position: 95% 50%;
-	background-color: #000;
 }
 /* Menu items that are open with submenus have the class designation MenuBarItemSubmenuHover and are set to use a "hover" background image positioned on the far left (95%) and centered vertically (50%) */
 #menubar ul.MenuBarHorizontal ul a.MenuBarItemSubmenuHover

@@ -1,0 +1,135 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ------- Style of Footer--------------*/
+.footer_panel {
+	width:1000px;
+	margin:0px auto 0px auto;
+	padding-bottom:85px;
+}
+.footer {
+	background:url(images/footer_bg.gif) repeat-x top;
+	padding:25px 25px 20px 30px;
+}
+.footer_block {
+	width:150px;
+	float:left;/*	border:solid 1px #060; */
+}
+.footer_block p {
+	font-size:11px;
+	font-weight:bold;
+	color:#5d5d5d;
+	margin:5px 0px 3px 0px;
+}
+.footer_block ul {
+	margin:0px;
+	padding:0px;
+}
+.footer_block ul li {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	color:#757575;
+	font-size:11px;
+	line-height:18px;
+}
+.footer_block ul li h2, .footer_block ul li h3 {
+	font-size:11px;
+	line-height:18px;
+	font-weight:normal;
+	color:#757575;
+	margin:0px;
+}
+.footer a {
+	color:#757575;
+	text-decoration:none;
+}
+.footer a:hover {
+	color:#383838;
+	text-decoration:underline;
+}
+.footer .partner {
+	width:345px;
+	float:right;
+}
+.footer .partner .tollno {
+	font-size:28px;
+	color:#909390;
+	text-align:right;
+	font-weight:bold;
+	margin-top:20px;
+}
+.footer .partner .tollno span {
+	font-size:18px;
+	font-weight:normal;
+}
+.footer .copyright {
+	color:#757575;
+	font-size:11px;
+	margin-top:20px;
+}
+.footer .copyright ul {
+	margin:0px;
+	padding:0px;
+}
+.footer .copyright ul li {
+	margin-right:10px;
+	list-style:none;
+	float:left;
+}
+.breadcrumb_panel{
+	margin:0px 20px 0px 35px;	
+	background:url(images/dottedline2.gif) repeat-x bottom;
+	clear:both;
+	height:30px;
+}
+.breadcrumbs {
+	font-size:11px;
+	float:left;
+	width:430px;
+}
+.addthismore {
+	width:150px;
+	float:right;
+	height:25px;
+}
+.breadcrumbs p {
+	font-size:11px;
+}
+.breadcrumbs p a, .breadcrumbs a {
+	color:#fc7d00;
+	text-decoration:none;
+	padding:0px 8px 20px 2px;
+	background:url(images/arrow_b.gif) no-repeat right top;
+}
+.breadcrumbs p a:hover, .breadcrumbs a:hover {
+	color:#fc7d00;
+	text-decoration:underline;
+}
+.breadcrumbs p a:last-child, .breadcrumbs a:last-child {
+	background:url(images/crumb_downaero.gif) no-repeat right top;	
+	padding-right:15px;
+}
+h2 {
+	margin:0px 0px 10px 0px;
+	font-size:18px;
+	color:#333;
+	font-weight:normal;
+}
+p {
+	margin:0px 0px 10px 0px;
+	font-size:12px;
+}
+a.readmore {
+	color:#ff6600;
+	text-decoration:none;
+}
+a.readmore:hover {
+	color:#ff6600;
+	text-decoration:underline;
+}
+.hr_border {
+	background:url(images/h-border.gif) repeat-x;
+	margin-top:10px;
+	height:1px;
+}
