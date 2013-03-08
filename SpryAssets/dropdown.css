@@ -35,7 +35,7 @@ li
 	position: relative;
 	text-align: left;
 	cursor: pointer;
-	width: 5em;
+	width: 7em;
 	float: left;
 }
 /* Submenus should appear below their parent (top: 0) with a higher z-index, but they are initially off the left side of the screen (-1000em) */
@@ -49,7 +49,7 @@ ul
 	font-size: 100%;
 	z-index: 1020;
 	cursor: default;
-	width: 5em;
+	width: 7em;
 	position: absolute;
 	left: -1000em;
 }
@@ -63,7 +63,7 @@ ul
 li
 
 {
-	width: 6em;
+	width: 7em;
 }
 /* Submenu that is showing with class designation MenuBarSubmenuVisible, we set left to 0 so it comes onto the screen */
 #country ul.MenuBarHorizontal ul.MenuBarSubmenuVisible ul.MenuBarSubmenuVisible
@@ -132,7 +132,7 @@ iframe
 #country #MenuBar2 li .MenuBarSubmenuVisible li a span {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: x-small;
-	color: #88BDAE;
+	color: #84CEFF;
 	background-image: url(../SpryAssets/trg.gif);
 	display: block;
 	background-repeat: no-repeat;

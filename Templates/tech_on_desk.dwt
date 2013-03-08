@@ -126,21 +126,24 @@
       </ul>
   </li>
           <li><a href="#">Payment Plan</a>        </li>
-          <li><a href="#">Review &amp; Blogs</a></li>
-          <li><a href="#">EXPERTS</a></li>
+          <li><a href="techondesk.info">Review &amp; Blogs</a></li>
+          <li><a href="#">OUR EXPERTS</a></li>
         </ul>
       </div>
       <div id="country">
       <ul id="MenuBar2" class="MenuBarHorizontal">
-        <li><a class="MenuBarItemSubmenu" href="#">Country</a>
+        <li><a class="MenuBarItemSubmenu" href="#">Country: USA</a>
           <ul>
-            <li><a href="#">America</a></li>
-            <li><a href="#"><span>Canada</span></a></li>
-            <li><a href="#"><span>USA</span></a></li>
-            <li><a href="#">Oceania</a></li>
-<li><a href="#"><span>Australia</span></a></li>
-<li><a href="#"><span>New Zealand</span></a></li>
-</ul>
+            <li><a href="#">AMERICA</a></li>
+            <li><a href="techondesk.com"><span>Canada</span></a></li>
+            <li><a href="techondesk.com"><span>USA</span></a></li>
+            <li><a href="#">OCEANIA</a></li>
+<li><a href="techondesk.net"><span>Australia</span></a></li>
+<li><a href="techondesk.net"><span>New Zealand</span></a></li>
+<li><a href="#">EUROPE</a></li>
+<li><a href="techondesk.biz"><span>UK</span></a></li>
+<li><a href="techondesk.biz"><span>Ireland</span></a></li>
+          </ul>
         </li>
 </ul>
     </div>
@@ -160,17 +163,16 @@
   <div id="mid_rt"></div>
 </div>
 <div id="subpageheader">
-  <div id="head"><a href="index.html">Home</a> &gt;&gt; Virus Removal</div>
+  <div id="head"><a href="index.html">Home</a></div>
 </div>
 <!-- TemplateEndEditable -->
+<div id="footer1"></div>
 <div id="footer">
-<div id="footer_left">
+  <div id="footer_left">
     <p>&copy;2013. TechOnDesk Pvt. Ltd. All Rights Reserved. | <a href="#">Refund Policy</a> | <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="#">About TechOnDesk</a></p>
-    </div>
-    <div id="footer_logo"></div>
-      <div id="footer_right">  Link With Us <a href="https://twitter.com/" target="_blank">Twitter</a></strong>
-      <a href="http://www.facebook.com/" target="_blank">Facebook</a></div>
-  
+  </div>
+  <div id="footer_logo"></div>
+  <div id="footer_right"> Link With Us <a href="https://twitter.com/" target="_blank">Twitter</a> <a href="http://www.facebook.com/" target="_blank">Facebook</a></div>
 </div>
 <script type="text/javascript">
 <!--
