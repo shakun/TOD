@@ -166,7 +166,12 @@
   <div id="head"><a href="index.html">Home</a></div>
 </div>
 <!-- TemplateEndEditable -->
-<div id="footer1"></div>
+<div id="footer1">
+    <div id="call"><a href="#">HELP-LINE</a>    </div>
+   <div id="email"><a href="#">SEND AN EMAIL</a></div>
+  <div id="remote"><a href="#">REMOTE</a></div>
+  <div id="chat"><a href="#">START A CHAT</a></div>
+</div>
 <div id="footer">
   <div id="footer_left">
     <p>&copy;2013. TechOnDesk Pvt. Ltd. All Rights Reserved. | <a href="#">Refund Policy</a> | <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="#">About TechOnDesk</a></p>

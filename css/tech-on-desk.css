@@ -130,10 +130,66 @@ body {
 }
 #footer1 {
 	background-color: #666;
-	height: 20px;
+	height: 25px;
 	width: 100%;
 	position: fixed;
 	bottom: 40px;
+}
+#footer1 #chat {
+	float: right;
+	height: 20px;
+	text-align: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 25px;
+	background-image: url(../images/chat_icon.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-top: 3px;
+}
+#footer1 #remote {
+	text-align: right;
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url(../images/remote.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 20px;
+	padding-top: 3px;
+}
+#footer1 #email {
+	text-align: right;
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url(../images/email.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 23px;
+	padding-top: 3px;
+}
+#footer1 #call {
+	text-align: right;
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url(../images/phone.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 23px;
+	padding-top: 3px;
+}
+#footer1 a {
+	font-size: x-small;
+	color: #CCC;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 3px;
+	display: block;
 }
 
 #footer #footer_left {
