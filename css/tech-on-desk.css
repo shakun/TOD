@@ -21,7 +21,6 @@ body {
 	height: 36px;
 	width: 18px;
 	margin-top: 12px;
-	margin-bottom: 12px;
 }
 #mid {
 	background-image: url(../images/mid.png);
@@ -30,7 +29,6 @@ body {
 	width: 950px;
 	float: left;
 	margin-top: 12px;
-	margin-bottom: 12px;
 }
 #right {
 	background-image: url(../images/rt_cr.png);
@@ -39,7 +37,6 @@ body {
 	width: 18px;
 	background-repeat: no-repeat;
 	margin-top: 12px;
-	margin-bottom: 12px;
 }
 #country {
 	float: left;
@@ -79,7 +76,9 @@ body {
 	background-position: 2px center;
 }
 #top {
-	height: 100px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
 }
 .homeimg {
 	text-align: center;
@@ -94,6 +93,7 @@ body {
 	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
+	box-shadow: 0px 0px 0px #333
 }
 #page_mid h6 {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -245,18 +245,19 @@ body {
 	background-repeat: no-repeat;
 	background-position: center center;
 }
-#uniq_ness #head {
+#subpageheader #head {
 	font-size: small;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	text-decoration: none;
-	padding-top: 1em;
+	padding-top: .5em;
 	padding-bottom: 1em;
 	height: 50px;
-	width: 1000px;
+	width: 990px;
 	margin-right: auto;
 	margin-left: auto;
+	padding-left: 10px;
 }
-#uniq_ness #head a {
+#subpageheader #head a {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #09C;
 	text-decoration: none;
@@ -303,7 +304,21 @@ body {
 	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
+	height: 50px;
+	
+  background: -webkit-gradient(linear, left bottom, left top, 
+color-stop(0%, white), color-stop(15%, white), color-stop(100%, #D7E9F5)); 
+background: -moz-linear-gradient(bottom, white 0%, white 55%, #D5E4F3 130%);
 }
+	
+}
+#container {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
 
 
 #uniq_ness #pack ul li {
@@ -339,4 +354,16 @@ body {
 #uniq_ness p {
 	font-family: calibri, "trebuchet MS", Arial;
 	font-size: small;
+}
+a img {
+	border: none;
+}
+#subpageheader #head a span {
+	color: #09C;
+	text-decoration: none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+a {
+	text-decoration: none;
 }
