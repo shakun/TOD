@@ -268,16 +268,18 @@ body {
 #footerspacing {
 	height: 65px;
 }
-#uniq_nessr h5 {
+#uniq_ness h5 {
 	clear: none;
 	margin: 0px;
 	padding: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: #666;
 }
 .heading {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: medium;
-	color: #333;
-	font-weight: bold;
+	color: #666;
 }
 #uniq_ness #pack {
 	width: 350px;
@@ -352,8 +354,9 @@ background: -moz-linear-gradient(bottom, white 0%, white 55%, #D5E4F3 130%);
 	margin-left: auto;
 }
 #uniq_ness p {
-	font-family: calibri, "trebuchet MS", Arial;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: small;
+	color: #333;
 }
 a img {
 	border: none;
