@@ -94,7 +94,6 @@ body {
 	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #CC9;
 }
 #page_mid h6 {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -246,7 +245,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center center;
 }
-#subpageheader #head {
+#uniq_ness #head {
 	font-size: small;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	text-decoration: none;
@@ -257,7 +256,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 }
-#subpageheader #head a {
+#uniq_ness #head a {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #09C;
 	text-decoration: none;
@@ -268,7 +267,7 @@ body {
 #footerspacing {
 	height: 65px;
 }
-#subpageheader h5 {
+#uniq_nessr h5 {
 	clear: none;
 	margin: 0px;
 	padding: 0px;
@@ -279,7 +278,7 @@ body {
 	color: #333;
 	font-weight: bold;
 }
-#subpageheader #pack {
+#uniq_ness #pack {
 	width: 350px;
 	border: thin solid #09F;
 	-webkit-border-top-right-radius:4px;
@@ -296,7 +295,18 @@ body {
 	border-bottom-left-radius:4px;
 	text-align: center;
 }
-#subpageheader #pack ul li {
+#uniq_ness #pack a img {
+	padding-left: 245px;
+	padding-bottom: 5px;
+}
+#subpageheader {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+#uniq_ness #pack ul li {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #333;
 	font-size: small;
@@ -304,8 +314,15 @@ body {
 	padding: 0px;
 	text-align: left;
 }
+#uniq_ness #pack ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
 
-#subpageheader #pack h4 {
+
+#uniq_ness #pack h4 {
 	margin: 0px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #09C;
@@ -314,12 +331,12 @@ body {
 	padding-bottom: 0px;
 	padding-left: 2px;
 }
-#subpageheader {
+#uniq_ness {
 	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
 }
-#subpageheader p {
+#uniq_ness p {
 	font-family: calibri, "trebuchet MS", Arial;
 	font-size: small;
 }

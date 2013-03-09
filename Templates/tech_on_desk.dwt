@@ -1,10 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link rel="shortcut icon" href="todicon.ico">
 <meta name="google-site-verification" content="BD5tCzDkyKkEmLXtJc3GH787cFZ_-EeYm1TzN8LXFyg" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Tech on Desk</title>
+<title>Computer Support, Tech Support Call TechOnDesk</title>
 <script type="text/javascript">
  function unhide(divID) {
  var item = document.getElementById(divID);
@@ -164,7 +165,6 @@
     <div id="right"></div>
   </div>
 </div>
-<!-- TemplateBeginEditable name="EditRegion" -->
 <div id="page_mid">
   <div id="mid_lt">
     <h6><a href="#"><img src="../images/CallNow_orng.jpg" /></a></h6>
@@ -177,18 +177,20 @@
 </div>
 <div id="subpageheader">
   <div id="head"><a href="index.html">Home</a></div>
-  <p><span class="heading">TechOnDesk Uniqueness:</span>     We believe in speedy recovery of your computer and saving your valuable time. Our services are available at unbeatable price for 12 months /8760 hrs with extra added bonus of one month/130 hrs protections. TechOnDesk provides round the clock services. </p>
-  <div id="pack">
-    <h4>Unlimited annual support for $159.99/year </h4>  
+</div>
+<div id="uniq_ness">
+<div id="pack">
+    <h4>Unlimited annual support for $159.99/year </h4>
     <ul>
       <li>Unlimited 24*7 good for complete year.</li>
       <li>Ensure timely and instant help.</li>
-      <li>Easiest way to keep PC optimised.</li>          CALL NOW: 
+      <li>Easiest way to keep PC optimised.</li>
     </ul>
-  </div>
+    <a href="#"><img src="../images/ordernow.jpg" /></a></div>
+  
+  <p><span class="heading">TechOnDesk Uniqueness:</span> We believe in speedy recovery of your computer and saving your valuable time. Our services are available at unbeatable price for 12 months /8760 hrs with extra added bonus of one month/130 hrs protections. TechOnDesk provides round the clock services. </p>
+  
 </div>
-<!-- TemplateEndEditable -->
-
 <div id="disclaimer">
   <h6>TechOnDesk provides aid to remote tech support for software, PC, IT and Technology hardware related issues and tangential.
     <a href="javascript:unhide('profile');">Read More..</a></h6>
