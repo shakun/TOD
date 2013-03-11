@@ -140,7 +140,7 @@
   </li>
           <li><a href="#">Payment Plan</a>        </li>
           <li><a href="techondesk.info">Review &amp; Blogs</a></li>
-          <li><a href="#">OUR EXPERTS</a></li>
+          <li><a href="#">Our Expert Team</a></li>
         </ul>
       </div>
       <div id="country">
@@ -179,9 +179,6 @@
 <!-- TemplateBeginEditable name="subpage" -->
 <div id="subpageheader">
   <div id="head"><a href="index.html"><span>Home</span></a></div>
-</div>
-<!-- TemplateEndEditable -->
-<div id="uniq_ness">
   <div id="pack">
     <h4>Unlimited annual support for $159.99/year </h4>
     <ul>
@@ -190,24 +187,31 @@
       <li>Easiest way to keep PC optimised.</li>
     </ul>
   <a href="#"><img src="../images/ordernow.jpg" /></a></div>
-   <h5>Ingenious Techies support you 24*7 with all of your PCs Issues.</h5>
-     <p>TechOnDesk is the knowledgeable resource that will support your computer, Laptops software
-     issues for the length of your membership. We are here to help ensure that your computer,
-     Laptops is always performing like the day you bought it. </p>
-     <h5>What you'll get</h5>
-     
-     <p>TechOnDesk provides unlimited virus removal and computer optimization to keep your devices
-     working at peak performance, stay virus-free and keep your personal information safe and
-     secure.. </p>
- <h5>TechOnDesk Uniqueness</h5>
+</div>
+<!-- TemplateEndEditable -->
+<div id="uniq_ness">
+<div id="col_lt">
+  <h5>Ingenious Techies support you 24*7 with all of your PCs Issues.</h5>
+  <p>TechOnDesk is the knowledgeable resource that will support your computer, Laptops software
+    issues for the length of your membership. We are here to help ensure that your computer,
+    Laptops is always performing like the day you bought it. </p>
+  <h5>What you'll get</h5>
+  
+  <p>TechOnDesk provides unlimited virus removal and computer optimization to keep your devices
+    working at peak performance, stay virus-free and keep your personal information safe and
+    secure.. </p>
+</div>
+<div id="col_rt">Content for  id "col_rt" Goes Here</div>
+<div id="uni_in">
+  <h5>TechOnDesk Uniqueness</h5>
   <p> We believe in speedy recovery of your computer and saving your valuable time. Our services are available at unbeatable price for 12 months /8760 hrs with extra added bonus of one month/130 hrs protections. TechOnDesk provides round the clock services. 
   </p>
-    
+</div>
 </div>
 
 <div id="disclaimer">
-  <h6>TechOnDesk provides aid to remote tech support for software, PC, IT and Technology hardware related issues and tangential.
-    <a href="javascript:unhide('profile');">Read More..</a></h6>
+  <p>TechOnDesk provides aid to remote tech support for software, PC, IT and Technology hardware related issues and tangential. 
+  <a href="javascript:unhide('profile');">Read More..</a></p>
   
   <div id="profile" class="hidden">
     
@@ -223,7 +227,7 @@
      TechOnDesk holding TechOnDesk Pvt. Ltd. , its subsidiaries and affiliates. In addition, the look and feel
      of the Site (including all page headers, custom graphics, button icons, and scripts) is the service mark,
      trademark, and trade dress of TechOnDesk and may not be copied, imitated or used (in whole or in part)
-     without TechOnDesk prior written permission.<br /><br />
+     without TechOnDesk prior written permission.<br />
      
      We provide services exactly as per the content described in the website. TechOnDesk expressly
      disclaims all warranties and is allowable by applicable law:(1) TechOnDesk makes no representations or
@@ -243,7 +247,7 @@
   <div id="remote"><a href="#">REMOTE</a></div>
   <div id="chat"><a href="#">START A CHAT</a></div>
 </div>
-<div id="footerspacing">Content for  id "footerspacing" Goes Here</div>
+<div id="footerspacing"></div>
 <div id="footer">
   <div id="footer_left">
     <p>&copy;2013. TechOnDesk Pvt. Ltd. All Rights Reserved. | <a href="#">Refund Policy</a> | <a href="#">Privacy Policy</a> | <a href="#">Contact Us</a> | <a href="#">Terms of Use</a> | <a href="#">About TechOnDesk</a></p>
