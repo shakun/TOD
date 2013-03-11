@@ -15,15 +15,18 @@
 	color: #F60;
 	text-decoration: none;
 }
-#disclaimer #profile p {
+#disclaimer p  {
 	font-family: calibri, "trebuchet MS", Arial;
 	font-size: small;
 	color: #999;
+	text-align: justify;
 }
 #disclaimer h6 {
 	font-size: small;
 	color: #333;
 	font-family: calibri, "trebuchet MS", Arial;
+	margin: 0px;
+	padding: 0px;
 }
 
 
